@@ -21,9 +21,14 @@
 </br>
 
 ### Interest
+<img src="https://img.shields.io/badge/javaScript-%23F7DF1E?style=flat&logo=Javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=ReactRouter&logoColor=white">
-<img src="https://img.shields.io/badge/ReactQuery-%23FF4154?style=flat&logo=ReactQuery&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/React%20Query-%23FF4154?style=flat&logo=ReactQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-%23764ABC?style=flat&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/zustand-532238">
 <br>
