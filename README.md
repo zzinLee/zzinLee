@@ -5,11 +5,20 @@
 
 ## zzinLee
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzinLee&layout=compact)
+
+</br>
+
 ### Introduce
 
-어디서나 함께 일하고 싶은 개발자 <br>
-유저와 소통하며 더 나은 UI와 UX를 위해 깊이 고민하고 함께 성장하는 동료가 되고 싶습니다.
+✏️ 어디서나 함께 일하고 싶은 프론트엔드 개발자 <br>
+</br>
+유저와 소통하며 더 나은 UI와 UX를 위해 깊이 고민하고<br>
+함께 성장하는 동료가 되고자 나아가고 있습니다.
 
+</br>
 
 ### Interest
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white">
@@ -25,9 +34,10 @@
 
 </br>
 
-
 ### About me
 [![Notion Badge](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
+
+<br>
 
 ### Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
