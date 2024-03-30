@@ -1,22 +1,26 @@
-# 🎉 Welcome ! This is zzinLee ✨
 
-</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FzzinLee&count_bg=%233DC8B1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 📫 Email to ...
-- sujin951017@gmail.com
-- sujin873@naver.com
+<div align=center>
 
-<!--
-**zzinLee/zzinLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## zzinLee
 
-Here are some ideas to get you started:
+### Introduce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+어디서나 함께 일하고 싶은 개발자 <br>
+유저와 소통하며 더 나은 UX를 위해 깊이 고민하고 함께 성장하는 동료가 되고 싶습니다.
+
+
+### Interest
+<img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat&logo=ReactRouter&logoColor=white">
+<img src="https://img.shields.io/badge/ReactQuery-%23FF4154?style=flat&logo=ReactQuery&logoColor=white">
+
+
+### About me
+
+
+### Contact me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
+
+</div>
