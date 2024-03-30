@@ -3,7 +3,7 @@
 
 <div align=center>
 
-## ✨ zzinLee
+# ✨ zzinLee
 
 <br>
 
@@ -11,7 +11,7 @@
 
 </br>
 
-### Introduce
+## Introduce
 
 ✏️ 어디서나 함께 일하고 싶은 프론트엔드 개발자 <br>
 </br>
@@ -20,7 +20,8 @@
 
 </br>
 
-### Interest
+## Interest
+
 <img src="https://img.shields.io/badge/javaScript-%23F7DF1E?style=flat&logo=Javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white">
@@ -39,12 +40,14 @@
 
 </br>
 
-### About me
+## About me
+
 [![Notion Badge](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
 
 <br>
 
-### Contact me
+## Contact me
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
 
 </div>
