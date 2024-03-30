@@ -1,4 +1,10 @@
-### Hi there 👋
+# 🎉 Welcome ! This is zzinLee ✨
+
+</br>
+
+### 📫 Email to ...
+- sujin951017@gmail.com
+- sujin873@naver.com
 
 <!--
 **zzinLee/zzinLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
