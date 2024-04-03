@@ -5,18 +5,18 @@
 
 # ✨ zzinLee
 
+함께 일하고 싶은 편안한 프론트엔드 개발자 🙌 </br>
+<br>
+유저와 소통하며 더 나은 UI와 UX를 위해 깊이 고민하고<br>
+함께 성장하는 동료가 되고자 나아가고 있습니다.
+
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzinLee&layout=compact)
 
 </br>
 
-## Introduce
-
-함께 일하고 싶은 편안한 프론트엔드 개발자 🙌 </br>
-<br>
-유저와 소통하며 더 나은 UI와 UX를 위해 깊이 고민하고<br>
-함께 성장하는 동료가 되고자 나아가고 있습니다.
 
 </br>
 
