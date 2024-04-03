@@ -13,7 +13,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzinLee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzinLee&layout=compact&theme=apprentice)
 
 </br>
 
