@@ -20,7 +20,7 @@
 
 </br>
 
-## Interest
+<!-- ## Interest
 
 <img src="https://img.shields.io/badge/javaScript-%23F7DF1E?style=flat&logo=Javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white">
@@ -38,16 +38,14 @@
 </br>
 <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093?style=flat&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
+-->
 
 
-## About me
+## 🎉 welcome
 
 [![Notion Badge](https://img.shields.io/badge/Notion-%23568DE5?style=flat&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
-
-<br>
-
-## Contact me
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
+
+
 
 </div>
