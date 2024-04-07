@@ -15,9 +15,11 @@ Cosmetic Researcher <br>
 </br>
 
 한 가지를 깊게, 꼼꼼히, 논리적으로 다가가는 힘이 있습니다. <br>
-꾸준하게 오래 걷는 개발자로 함께하고 싶습니다.
+꾸준하게 오래 걷는 개발자로 함께하고 싶습니다. <br>
+
 
 </br>
+
 
 ### Interest
 
@@ -25,7 +27,7 @@ Cosmetic Researcher <br>
 <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white">
 
-
+<br>
 
 </br>
 
