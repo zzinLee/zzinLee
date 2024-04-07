@@ -3,11 +3,12 @@
 
 <div align=center>
 
-# ✨ zzinLee
+# zzinLee
 
-함께 일하고 싶은 편안한 프론트엔드 개발자 🙌 </br>
+함께 일하고 싶은 편안한 프론트엔드 개발자 이수진입니다.
 <br>
-더 나은 UI와 UX를 위해 깊이 고민하고<br>
+더 나은 UI와 UX를 위해 깊이 고민하고
+<br>
 함께 성장하는 동료가 되고자 나아가고 있습니다.
 
 
@@ -41,7 +42,7 @@
 -->
 
 
-## 🎉 welcome
+## Welcome
 
 [![Notion Badge](https://img.shields.io/badge/Notion-%23568DE5?style=flat&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
