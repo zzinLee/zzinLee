@@ -1,19 +1,10 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FzzinLee&count_bg=%233DC8B1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align=center>
 
 ## zzinLee ✨ 
 
 함께 일하고 싶은 편안한 프론트엔드 개발자 이수진입니다. <br>
 </br>
-🎓 화학공학 석사학위 <br>
-Master of Science in Chemical Engineering <br>
-</br>
-🥼 화장품 연구원 <br>
-Cosmetic Researcher <br>
-</br>
-
 한 가지를 깊게, 꼼꼼히, 논리적으로 다가가는 힘이 있습니다. <br>
 꾸준하게 오래 걷는 개발자로 함께하고 싶습니다. <br>
 
@@ -21,17 +12,7 @@ Cosmetic Researcher <br>
 </br>
 
 
-### Interest
-
-<img src="https://img.shields.io/badge/javaScript-%23F7DF1E?style=flat&logo=Javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white">
-
-<br>
-
-</br>
-
-### Welcome 🎉
+## Welcome 🎉
 
 [![Notion Badge](https://img.shields.io/badge/Notion-%23568DE5?style=flat&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
