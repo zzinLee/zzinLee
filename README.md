@@ -1,21 +1,49 @@
 
 <div align=center>
 
-## zzinLee ✨ 
+# zzinLee ✨ 
 
 함께 일하고 싶은 편안한 프론트엔드 개발자 이수진입니다. <br>
 </br>
 한 가지를 깊게, 꼼꼼히, 논리적으로 다가가는 힘이 있습니다. <br>
 꾸준하게 오래 걷는 개발자로 함께하고 싶습니다. <br>
 
+</div>
+
+<br></br>
+<br></br>
+
+
+<div fontsize="10"> 
+  
+## 글쓰기를 좋아하고 호기심이 많은 사람입니다.
+
+### 글쓰기
+글을 쓰는 행위는 스스로를 객관적으로 볼 수 있는 힘이 된다고 믿고 있습니다. <br>
+**현재** 내가 쓴 글들은 **과거**의 기록이 되고, **미래**의 자양분이 된다고 믿으며 살아가고 있습니다.<br>
+### 호기심
+"나"를 둘러 싼 세상에 대한 호기심이 많습니다. <br>
+인류를 설명할 수 있는 학문은 화학공학이라고 생각하며 <br>
+화학공학 석사학위, 연구원으로서 일한 경험이 있습니다. <br>
+### 모험
+하지만 지금은 모바일과 웹이 인류를 설명한다고 생각합니다. <br>
+호기심을 이기지 못하고 다시 한번 새로운 학문으로의 모험을 떠나고 싶어하는 사람입니다. <br>
+
+<br>
+
+</div>
+
+
+
+
 
 </br>
 
 
-## Welcome 🎉
+## WELCOME!
 
-[![Notion Badge](https://img.shields.io/badge/Notion-%23568DE5?style=flat&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-%23568DE5?style=for-the-badge&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
 
 </br>
 
@@ -39,11 +67,5 @@
 <img src="https://img.shields.io/badge/tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
 -->
 
-### Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzinLee&layout=compact&theme=apprentice)
-
-</br>
-
-</div>
 
