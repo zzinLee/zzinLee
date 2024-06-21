@@ -1,89 +1,48 @@
 
 <div align=center>
 
-# zzinLee ✨ 
+# 이수진 
 
-안녕하세요, 소프트웨어 엔지니어 이수진입니다. <br>
-요구사항과 기술적 한계 사이에서 고민하는 과정을 즐기는 사람입니다. <br>
-한 가지를 깊게, 꼼꼼히, 논리적으로 다가가는 힘이 있습니다. <br>
+[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-33A852?style=for-the-badge&logo=Gmail&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
 
 </div>
 
-<br></br>
+안녕하세요, 이수진입니다. <br>
+나만의 가치를 구하고자 연구를 그만두고 프로그래밍을 시작했습니다. <br>
+같은 문제에 논리적인 사고를 통해 다양한 답을 내고 세상을 보는 시야를 넓혀 준다는 것에 매력을 느끼고 있습니다. <br>
+<br>
+특이한 공학입니다. <br>
+한번에 배우는 것도 없고, 배워서 계속 써먹을 수도 없지만 끼치는 영향력은 큽니다. <br>
+제게 프로그래밍이 오래도록 흥미를 잃지 않고 삶의 원동력이 되어 줄 것이라 기대하고 있습니다. <br><br>
+<br>
 
-## 나만의 생각과 기술로 더 나은 UI/UX를 위한 기술적 문제를 정의하고 해결하고자 합니다.
-
-유저에게 유용하고 즐거운 서비스를 제공하며 나만의 기술로 해결하고자 노력한 프로젝트들입니다. <br>
-유저 타겟 설정과 니즈 파악, 상식적인 서비스 구현을 목표로 기술적 해결을 시도하였습니다. <br>
-
-</br>
+## Repository
 
 **Project [PaperSurfer](https://github.com/zzinLee/paperSurfer)**
 
-> 약 3주간의 핵심 기능 개발 기간, 개인 프로젝트 <br>
-> <br>
-> 논문의 참조관계를 그래프뷰와 테이블뷰로 나타내어 참고할만한 문헌을 빠르게 찾도록 돕습니다. <br>
-> PDF 웹뷰어와 하이라이터 기능을 제공합니다. <br>
-> <br>
-> 그래프 자료 구조를 사용하여 DFS, 재귀로직을 기반으로 글로벌 상태 업데이트와 렌더링 로직을 구성하였습니다. <br>
-> 리액트 라이브러리의 렌더링 로직에 대한 이해를 바탕으로 최적화를 진행하였습니다. <br>
+> 개인 프로젝트 (약 3주 간의 핵심 기능 개발 기간)<br>
+>
+> 연구원에게 필요한 참고 문헌들을 빠르게 파악할 수 있도록 돕는 논문 스크리닝 시각화 서비스입니다. <br>
+> 필요한 논문을 검색하고, 리스트에 추가하며, 해당 논문의 참고 문헌들을 시각화 합니다. <br>
+> 논문 파일 포맷인 PDF 를 다룰 수 있도록 PDF 웹 뷰어와 하이라이터 기능을 구현 하였습니다. <br>
+>
 
 <br>
 
 **Project [KrossCutting](https://github.com/KrossCutting/KrossCutting-client)**
 
-> 약 4주간의 핵심 기능 개발 기간, 팀원 총 3명 <br>
+> 팀원 총 3명(약 4주 간의 핵심 기능 개발 기간) <br>
 > <br>
-> 싱글스레드 환경에서 영상 편집을 다룬 프로젝트입니다. <br>
-> 영상 편집 시점 분석, 음원 시작 시점 분석, 자연스러운 편집을 위한 기술 등 <br>
-> 다양한 챌린지를 해결하기 위해 짧은 기간 내 다양한 기술 도입을 시도하였습니다. <br>
-> <br>
+> K-POP 아이돌의 무대 교차 편집 영상을 만들 수 있는 웹/앱 서비스 입니다. <br>
+> 영상 편집 시점 분석, 음원 시작 시점 분석, 자연스러운 편집을 위한 기술 등의 챌린지를 해결하기 위해 다양한 시도를 하였습니다. <br>
 > FFmpeg, sharp, tensorflow 등의 오픈소스 라이브러리를 도입하였습니다. <br>
-> Dart 와 Flutter 를 빠르게 익혀 1주일의 기간 내 앱 개발을 완료한 경험이 있습니다. <br>
+> Dart 와 Flutter 를 도입하여 앱 개발을 완료하였습니다. <br>
 
 </br>
 
-<br></br>
-
-## 의견을 조율하고 기술적 한계를 고민하는 과정을 친숙하게 느낍니다.
-
-<br>
-
-화장품 연구원으로 일하며 제품 기획자(PM)의 요구사항을 충족시키기 위한 기술적 챌린지를 극복하는 일을 해왔습니다. <br>
-> 물리적·화학적으로 만족하기 어려운 요구사항을 최대한 충족하기 위해, <br>
-> 다양한 방식으로 기획자와 소통하고 의견을 조율하였으며 <br>
-> 마주한 한계에 대해 정의하고 이론 기반의 실험을 통해 해결하였습니다. <br>
-
-<br>
-
-기술적 챌린지 해결 과정이 소프트웨어 개발에서도 일맥상통하다고 생각합니다. 
-> 사용자가 원하는 서비스의 요구사항을 충족시키기 위해 <br>
-> 마주한 기술적 문제에 대해 정의하고 이를 해결하며 <br>
-> 관련부서와 원활한 소통이 필요하다는 점에서 그러합니다. <br>
-
-<br>
-
-소프트웨어 개발을 통해 더욱 즐거운 서비스를 제공하고자 노력하고 있습니다. <br>
-> 소프트웨어를 개발하는 일은 세상에 없던 새로운 서비스를 제공하는 일입니다. <br>
-> 새롭게 제시되는 문제들을 해결하고 더 많은 영향력을 행사하고자 합니다. <br>
-
-<br></br>
-
-
-
-<div align="center">
-  
-## Welcom to my space 🎉
-
-[![Notion Badge](https://img.shields.io/badge/Notion-%23568DE5?style=for-the-badge&logo=Notion&logoColor=white&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
-
-</br>
-
-## Contact me ✉
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
-
-</div>
+> [!NOTE]
+> [알고리즘 스터디 algo-molgo](https://github.com/Algo-Molgo/algo_molgo_study) 를 모집하여 운영 중입니다. 슬랙봇을 통해 소통하고 있습니다.
 
 <!-- ## Interest
 
