@@ -39,6 +39,7 @@
 </br>
 
 > [!NOTE]
+> [컴퓨터 밑바닥의 비밀](https://github.com/hojimatcha/the-secret-of-the-underlying-computer) 스터디 진행 중 <br>
 > [알고리즘 스터디 algo-molgo](https://github.com/Algo-Molgo/algo_molgo_study) 운영 진행
 
 <!-- ## Interest
