@@ -3,8 +3,7 @@
 
 # 이수진 
 
-[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-33A852?style=for-the-badge&logo=Gmail&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4) [![Gmail Badge](https://img.shields.io/badge/Gmail-33A852?style=for-the-badge&logo=Gmail&link=mailto:sujin951017@gmail.com)](mailto:sujin951017@gmail.com)
 
 </div>
 
